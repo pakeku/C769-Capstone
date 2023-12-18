@@ -62,3 +62,7 @@ The primary goal of this platform is to provide a user-friendly, secure, and sca
 [] Design interface/landing page for the project
 
 [] Pick key technologies to be used in this project.
+    - [Docusaurus](https://docusaurus.io/) for documentation of the project
+    - [React](https://react.dev/) frontend framework - generated with [vite](https://vitejs.dev/guide/)
+    - Material UI [(MUI)](https://mui.com/material-ui/) - UI Components
+    - Auth0 - [Google Sign-In](https://developers.google.com/identity/gsi/web/guides/overview)
